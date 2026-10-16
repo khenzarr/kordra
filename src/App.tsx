@@ -50,8 +50,8 @@ export default function App() {
         {/* Header */}
         <div className="flex items-start justify-between">
           <div>
-            <h1 className="display text-2xl font-bold" style={{ color: 'var(--ink)', letterSpacing: '-0.03em' }}>
-              Kordra
+            <h1>
+              <img src="/brand/kordra.svg" alt="Kordra" width="190" height="40" className="h-10 w-[190px] max-[380px]:w-[160px]" />
             </h1>
             <p className="mt-0.5 text-xs" style={{ color: 'var(--muted)' }}>
               One payment. Exact authority.

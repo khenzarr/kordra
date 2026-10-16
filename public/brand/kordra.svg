@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 304 64" fill="none" role="img" aria-labelledby="title">
+  <title id="title">Kordra</title>
+  <g fill="#122d45">
+    <path d="M4 8h12v48H4zM22 30 43 8h15L36 30zM22 36h15l21 20H42z"/>
+    <path d="M80 18h5v13l12-13h7L90 33l15 15h-7L85 35v13h-5z"/>
+    <path fill-rule="evenodd" d="M123 17c-9 0-14 6-14 16s5 16 14 16 14-6 14-16-5-16-14-16Zm0 5c6 0 9 4 9 11s-3 11-9 11-9-4-9-11 3-11 9-11Z"/>
+    <path fill-rule="evenodd" d="M145 18h12c8 0 12 3 12 9 0 5-3 8-7 9l9 12h-6l-9-12h-6v12h-5V18Zm5 5v8h7c5 0 7-1 7-4s-2-4-7-4h-7Z"/>
+    <path fill-rule="evenodd" d="M178 18h11c10 0 16 5 16 15s-6 15-16 15h-11V18Zm5 5v20h6c7 0 11-3 11-10s-4-10-11-10h-6Z"/>
+    <path fill-rule="evenodd" d="M213 18h12c8 0 12 3 12 9 0 5-3 8-7 9l9 12h-6l-9-12h-6v12h-5V18Zm5 5v8h7c5 0 7-1 7-4s-2-4-7-4h-7Z"/>
+    <path fill-rule="evenodd" d="m256 18-12 30h5l3-8h13l3 8h6l-12-30h-6Zm2 6-4 11h9l-5-11Z"/>
+  </g>
+  <path d="M22 8h8l-8 9z" fill="#a58756"/>
+</svg>
