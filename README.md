@@ -8,6 +8,8 @@ No admin, fees, proxy, upgrade path, oracle, backend, or partial payment logic.
 
 Built by [KHENZAR](https://github.com/khenzarr) with [Arc Studio](https://studio.arc.io/app/a34cf66d-02a0-4733-a22b-a28ff3d1efd6).
 
+**Live app:** [kordra.vercel.app](https://kordra.vercel.app)
+
 ## Why it exists
 
 - A company can let an employee pay one named supplier without sharing unrestricted treasury access.
