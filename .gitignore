@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.env
+.env.*
+.vercel/
+.arc-studio/
+.agents/
+console.jsonl
+traces.jsonl
+contracts/cache/
+contracts/out/*
+!contracts/out/PaymentAuthority.sol/
+!contracts/out/PaymentAuthority.sol/PaymentAuthority.json
+contracts/out/build-info/
+contracts/contract-metadata/*.local.json
+*.log
