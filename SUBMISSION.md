@@ -26,7 +26,7 @@ Kordra is a one-time delegated USDC payment authority for Arc. A sponsor deposit
 - Contract deployment: https://explorer.arc.io/tx/0x3365cbf77987ea66e8798444931dbee1b8fbd71bf8f197d86e9e5162e48a6c59
 - Example create transaction: https://explorer.arc.io/tx/0xbf5216e063734dd1aed33acd00cc2b8cfb60e7dd3d39920e99c1c890409eac65
 - Example execution transaction: https://explorer.arc.io/tx/0x788314a71d133ddf9655287d85f719a5a09b2eebb1fc7cda566b04a1a26061ea
-- Video walkthrough: ADD_FINAL_VIDEO_URL
+- Video walkthrough: https://github.com/khenzarr/kordra/blob/main/demo/Kordra_Arc_Microgrants_Demo.mp4
 
 ## Verified mainnet result
 

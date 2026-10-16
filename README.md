@@ -10,6 +10,8 @@ Built by [KHENZAR](https://github.com/khenzarr) with [Arc Studio](https://studio
 
 **Live app:** [kordra.vercel.app](https://kordra.vercel.app)
 
+**Video walkthrough:** [Watch the 66-second mainnet demo](https://github.com/khenzarr/kordra/blob/main/demo/Kordra_Arc_Microgrants_Demo.mp4)
+
 ## Why it exists
 
 - A company can let an employee pay one named supplier without sharing unrestricted treasury access.
