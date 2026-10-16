@@ -36,6 +36,21 @@ The mainnet deployment was independently checked against the compiled artifact i
 - immutable `usdcToken()`: `0x3600000000000000000000000000000000000000`
 - deployed runtime bytecode: present (2,516 bytes)
 
+### Verified mainnet demo
+
+Instruction #1 completed the full three-wallet flow with real USDC:
+
+| Role | Address |
+|---|---|
+| Sponsor | `0xB2F6CfD0960A1fCC532DE1BF2Aafcc3077B4c396` |
+| Authorized spender | `0x1e19c1c829A387c2246567c0df264D81310d7775` |
+| Fixed recipient | `0x0b943Fe9f1f8135e0751BA8B43dc0cD688ad209D` |
+
+- Amount: **0.01 USDC**
+- Create and lock: [`0xbf52...ac65`](https://explorer.arc.io/tx/0xbf5216e063734dd1aed33acd00cc2b8cfb60e7dd3d39920e99c1c890409eac65)
+- Authorized execution: [`0x7883...61ea`](https://explorer.arc.io/tx/0x788314a71d133ddf9655287d85f719a5a09b2eebb1fc7cda566b04a1a26061ea)
+- Final state: `executed = true`, `reclaimed = false`, contract escrow balance `0 USDC`
+
 ## Contract rules
 
 - The sponsor approves and deposits the full amount when creating an instruction.

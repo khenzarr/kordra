@@ -13,6 +13,17 @@ Kordra is an immutable one-time delegated USDC payment authority built with Arc 
 - USDC: `0x3600000000000000000000000000000000000000`
 - Creation bytecode and constructor argument independently matched the local artifact.
 
+### Verified mainnet demo
+
+- Instruction ID: `1`
+- Amount: `0.01 USDC` (`10000` base units)
+- Sponsor: `0xB2F6CfD0960A1fCC532DE1BF2Aafcc3077B4c396`
+- Spender: `0x1e19c1c829A387c2246567c0df264D81310d7775`
+- Recipient: `0x0b943Fe9f1f8135e0751BA8B43dc0cD688ad209D`
+- Create tx: `0xbf5216e063734dd1aed33acd00cc2b8cfb60e7dd3d39920e99c1c890409eac65`
+- Execute tx: `0x788314a71d133ddf9655287d85f719a5a09b2eebb1fc7cda566b04a1a26061ea`
+- Final state: executed, not reclaimed, contract USDC balance zero.
+
 ### Arc Testnet
 
 - Contract: `0x8287c8eef5c01fdfdac721b40137b9ab10cf57e3`
